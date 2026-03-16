@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "https://adornee.my.canva.site/adorn-e-luxury-indian-artificial-jewellery"
+      "destination": "https://adornee.my.canva.site/adornee"
     },
     {
       "source": "/(.*)",
