@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "https://adornee.my.canva.site/adornee"
+      "destination": "https://adornee.my.canva.site/adornee-"
     },
     {
       "source": "/(.*)",
